@@ -1,6 +1,6 @@
 <h1 align = "center">姓名</h1>
 
-**姓名**：姓名          **院校**：学校         **电话**： (+86)xxxxxxxxxxx           **邮箱**：xxxxxxxxx@xxx.com
+**姓名**：姓名              **院校**：学校         **电话**： (+86)xxxxxxxxxxx           **邮箱**：xxxxxxxxx@xxx.com
 
 ### 教育经历
 
